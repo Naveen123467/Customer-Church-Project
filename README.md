@@ -27,3 +27,34 @@ This repository contains the following important files:
 ### 2. Dataset CSV  
 - The raw church data used for cleaning, visualization, and analysis  
 👉 [View `dataset.csv`](https://github.com/Naveen123467/Customer-Church-Project/blob/main/dataset.csv)
+
+## Key Insights
+- Identified patterns in **donation frequency and attendance trends**
+- Observed variations in **member engagement over time**
+- Cleaned data enabled better understanding of **active vs inactive members**
+- Insights can help improve **member retention and engagement strategies**
+
+## Skills Demonstrated
+- Data Cleaning & Preprocessing (Python, Pandas)
+- Exploratory Data Analysis (EDA)
+- Data Visualization (Matplotlib, Seaborn)
+- Feature Engineering & Encoding
+- Analytical Thinking & Insight Generation
+- Dashboard Design (Conceptual – Power BI)
+
+## How to Run the Project
+1. Clone the repository
+2. Open `Analysis.ipynb` using Jupyter Notebook or Google Colab
+3. Run all cells to view data cleaning steps and visualizations
+4. Review `dataset.csv` for the raw input data
+
+## Future Enhancements
+- Build a complete **Power BI interactive dashboard**
+- Add member segmentation analysis
+- Automate data updates using Python scripts
+- Perform predictive analysis for member engagement
+
+
+## Conclusion
+This project demonstrates an end-to-end **data analysis workflow**, starting from raw CSV data to meaningful insights using Python. It highlights strong data cleaning, visualization, and analytical skills suitable for a **Data Analyst role**.
+
