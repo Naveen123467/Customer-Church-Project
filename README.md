@@ -15,7 +15,15 @@ This project focuses on analyzing church data to understand **donation trends, a
    - Generated graphs for donations, attendance, and engagement metrics
 3. **Dashboard (Conceptual)**
    - Designed an interactive Power BI dashboard for tracking key metrics (no actual dashboard file required)
-## Files
-- `/data/church_data.csv` – Dataset used
-- `/scripts/data_cleaning.ipynb` – Python code for cleaning and analysis
-- `/images/` – Optional: Graph screenshots
+## 📁 Project Files
+
+This repository contains the following important files:
+
+### 1. Python Data Cleaning & Analysis Notebook  
+- The Python Jupyter Notebook used to clean and analyze the church data  
+- It shows the full step-by-step data preprocessing and visualization  
+👉 [Open `Analysis.ipynb`](https://github.com/Naveen123467/Customer-Church-Project/blob/main/Analysis.ipynb)
+
+### 2. Dataset CSV  
+- The raw church data used for cleaning, visualization, and analysis  
+👉 [View `dataset.csv`](https://github.com/Naveen123467/Customer-Church-Project/blob/main/dataset.csv)
