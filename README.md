@@ -1,5 +1,6 @@
 # Customer-Church-Project
-Analyze customer churn behavior using Python and Power BI. This project includes data cleaning, exploratory analysis, and building interactive dashboards to identify key churn drivers and support customer retention strategies.
+Analyze church customer data using Python, focusing on data cleaning, exploratory analysis, and visualization to understand donation trends, attendance, and member engagement.
+
 ## Project Overview
 This project focuses on analyzing church data to understand **donation trends, attendance, and member engagement**. 
 
